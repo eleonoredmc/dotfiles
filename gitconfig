@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eleonore.demarnhac@gmail.com
+	name = Eleonore de Marnhac
